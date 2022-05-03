@@ -10,13 +10,13 @@ social:
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://twitter.com/kowshik0808
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: http://www.linkedin.com/in/kowshik-thopalli
 email: kthopall@asu.edu; kowshik.thopalli@asu.edu
 superuser: true
 status:
   icon: ☕️
 ---
-I am a Ph.D student in Electrical and Computer Engineering at Arizona State University. My main research interests are in Computer Vision, Deep Learning and AI for health care. I am advised by [Dr Pavan K Turaga](https://pavanturaga.com/). I am also fortunate to be advised by [Dr Jayaraman J Thiagarajan](https://jjthiagarajan.com/) who is a computer Scientist at Lawrence Livermore National Laboratory.
+I am a Ph.D student in Electrical and Computer Engineering at Arizona State University. My main research interests are in Computer Vision, Deep Learning and AI for health care. I am advised by [Dr Pavan K Turaga](https://pavanturaga.com/). I am also fortunate to be advised by [Dr Jayaraman J Thiagarajan](https://jjthiagarajan.com/).
